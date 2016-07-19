@@ -1,0 +1,14 @@
+layout_spectrum: 0.8041045
+typography_spectrum: 0.7402052
+color:
+  saturation: 0.3419015
+  lightness: 0.9650742
+  brandStrength: 1
+  brandColors:
+    - '#0A0A0A'
+    - '#DD9A22'
+    - '#2A1F0D'
+    - '#8D6318'
+    - '#654613'
+  rhythmicContrast: 0.03776243
+name: Bennett Building Co.
