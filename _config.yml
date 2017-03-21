@@ -1,18 +1,28 @@
+name: Bennett Building Co.
+analytics: {}
+github: true
+description: >-
+  official website for The Bennett Building Co., Damon Bennett's construction
+  and renovation consulting company.
+author:
+  name: Damon Bennett
+  url: DamonBennett.ca
+  email: DamonBennett@live.com
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
+content: []
+layout_spectrum: 0.8041045
 color:
-  saturation: 1
-  brandStrength: 1
   lightness: 0.9650742
   brandColors:
     - '#0A0A0A'
@@ -20,7 +30,11 @@ color:
     - '#2A1F0D'
     - '#8D6318'
     - '#654613'
+  saturation: 1
+  brandStrength: 1
   rhythmicContrast: 0.9736842
+content_rating:
+  adult: false
 typography_spectrum: 0.7402052
-layout_spectrum: 0.8041045
-name: Bennett Building Co.
+opengraph: {}
+title: Construction & Renovation Consultations
