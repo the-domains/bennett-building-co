@@ -1,9 +1,10 @@
 name: Bennett Building Co.
-analytics: {}
+analytics:
+  twitter: '#BennettBuildinCo '
 github: true
 description: >-
-  official website for The Bennett Building Co., Damon Bennett's construction
-  and renovation consulting company.
+  official website of The Bennett Building Co., Damon Bennett provides
+  consulting services for your construction & renovation projects.
 author:
   name: Damon Bennett
   url: DamonBennett.ca
@@ -14,12 +15,12 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 content: []
 layout_spectrum: 0.8041045
 color:
