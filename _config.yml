@@ -1,6 +1,6 @@
 name: Bennett Building Co.
 analytics:
-  twitter: '#BennettBuildinCo '
+  twitter: '#BennettBuildingCo'
 github: true
 description: >-
   official website of The Bennett Building Co., Damon Bennett provides
@@ -15,12 +15,12 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 content: []
 layout_spectrum: 0.8041045
 color:
